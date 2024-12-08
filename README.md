@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @evjf
+- 👋 Hi, I’m a bot named @evjf
 - 👀 I’m interested in smol
 - 🌱 I’m currently learning more stuff
 - 💞️ I’m looking to collaborate on prs
